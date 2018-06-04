@@ -1,0 +1,142 @@
+C:\Users\admin\Desktop\XXX\XXX\bin\Debug\XXX.exe
+C:\Users\admin\Desktop\XXX\XXX\bin\Debug\XXX.pdb
+C:\Users\admin\Desktop\XXX\XXX\bin\Debug\Interop.MapWinGIS.dll
+C:\Users\admin\Desktop\XXX\XXX\bin\Debug\AxInterop.MapWinGIS.dll
+C:\Users\admin\Desktop\XXX\XXX\obj\x86\Debug\Interop.MapWinGIS.dll
+C:\Users\admin\Desktop\XXX\XXX\obj\x86\Debug\AxInterop.MapWinGIS.dll
+C:\Users\admin\Desktop\XXX\XXX\obj\x86\Debug\XXX.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\XXX\XXX\obj\x86\Debug\XXX.Form1.resources
+C:\Users\admin\Desktop\XXX\XXX\obj\x86\Debug\XXX.Properties.Resources.resources
+C:\Users\admin\Desktop\XXX\XXX\obj\x86\Debug\XXX.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\XXX\XXX\obj\x86\Debug\XXX.exe
+C:\Users\admin\Desktop\XXX\XXX\obj\x86\Debug\XXX.pdb
+C:\Users\a5681\Desktop\XXX\XXX\obj\x86\Debug\Interop.MapWinGIS.dll
+C:\Users\a5681\Desktop\XXX\XXX\obj\x86\Debug\XXX.csproj.ResolveComReference.cache
+C:\Users\a5681\Desktop\XXX\XXX\obj\x86\Debug\XXX.exe
+C:\Users\a5681\Desktop\XXX\XXX\obj\x86\Debug\XXX.pdb
+C:\Users\a5681\Desktop\XXX\XXX\obj\x86\Debug\XXX.csprojResolveAssemblyReference.cache
+C:\Users\a5681\Desktop\XXX\XXX\obj\x86\Debug\XXX.Form1.resources
+C:\Users\a5681\Desktop\XXX\XXX\obj\x86\Debug\XXX.Properties.Resources.resources
+C:\Users\a5681\Desktop\XXX\XXX\obj\x86\Debug\XXX.csproj.GenerateResource.Cache
+C:\Users\a5681\Desktop\XXX\XXX\bin\Debug\XXX.exe
+C:\Users\a5681\Desktop\XXX\XXX\bin\Debug\XXX.pdb
+C:\Users\a5681\Desktop\XXX\XXX\bin\Debug\AxInterop.MapWinGIS.dll
+C:\Users\a5681\Desktop\XXX\XXX\bin\Debug\Interop.MapWinGIS.dll
+C:\Users\a5681\Desktop\XXX\XXX\bin\Debug\AxInterop.MapWinGIS.xml
+C:\Users\a5681\Desktop\XXX\XXX\bin\Debug\Interop.MapWinGIS.xml
+G:\#导航设计\XXX\XXX\obj\x86\Debug\Interop.MapWinGIS.dll
+G:\#导航设计\XXX\XXX\obj\x86\Debug\XXX.csproj.ResolveComReference.cache
+G:\#导航设计\XXX\XXX\obj\x86\Debug\XXX.exe
+G:\#导航设计\XXX\XXX\obj\x86\Debug\XXX.pdb
+G:\#导航设计\XXX\XXX\bin\Debug\XXX.exe.config
+G:\#导航设计\XXX\XXX\bin\Debug\XXX.exe
+G:\#导航设计\XXX\XXX\bin\Debug\XXX.pdb
+G:\#导航设计\XXX\XXX\bin\Debug\Interop.MapWinGIS.dll
+G:\#导航设计\XXX\XXX\bin\Debug\AxInterop.MapWinGIS.xml
+G:\#导航设计\XXX\XXX\bin\Debug\Interop.MapWinGIS.xml
+G:\#导航设计\XXX\XXX\obj\x86\Debug\XXX.csprojResolveAssemblyReference.cache
+G:\#导航设计\XXX\XXX\obj\x86\Debug\XXX.Form1.resources
+G:\#导航设计\XXX\XXX\obj\x86\Debug\XXX.Properties.Resources.resources
+G:\#导航设计\XXX\XXX\obj\x86\Debug\XXX.csproj.GenerateResource.Cache
+G:\#导航设计\XXX - 副本\XXX\bin\Debug\XXX.exe.config
+G:\#导航设计\XXX - 副本\XXX\obj\x86\Debug\Interop.MapWinGIS.dll
+G:\#导航设计\XXX - 副本\XXX\obj\x86\Debug\XXX.csproj.ResolveComReference.cache
+G:\#导航设计\XXX - 副本\XXX\obj\x86\Debug\XXX.exe
+G:\#导航设计\XXX - 副本\XXX\obj\x86\Debug\XXX.pdb
+G:\#导航设计\XXX - 副本\XXX\bin\Debug\XXX.exe
+G:\#导航设计\XXX - 副本\XXX\bin\Debug\XXX.pdb
+G:\#导航设计\XXX - 副本\XXX\bin\Debug\Interop.MapWinGIS.dll
+G:\#导航设计\XXX - 副本\XXX\bin\Debug\AxInterop.MapWinGIS.xml
+G:\#导航设计\XXX - 副本\XXX\bin\Debug\Interop.MapWinGIS.xml
+G:\#导航设计\XXX - 副本\XXX\obj\x86\Debug\XXX.csprojResolveAssemblyReference.cache
+G:\#导航设计\XXX - 副本\XXX\obj\x86\Debug\XXX.Form1.resources
+G:\#导航设计\XXX - 副本\XXX\obj\x86\Debug\XXX.Properties.Resources.resources
+G:\#导航设计\XXX - 副本\XXX\obj\x86\Debug\XXX.csproj.GenerateResource.Cache
+G:\#导航设计\XXX3.27\XXX\bin\Debug\XXX.exe.config
+G:\#导航设计\XXX3.27\XXX\obj\x86\Debug\Interop.MapWinGIS.dll
+G:\#导航设计\XXX3.27\XXX\obj\x86\Debug\XXX.csproj.ResolveComReference.cache
+G:\#导航设计\XXX3.27\XXX\obj\x86\Debug\XXX.exe
+G:\#导航设计\XXX3.27\XXX\obj\x86\Debug\XXX.pdb
+G:\#导航设计\XXX3.27\XXX\bin\Debug\XXX.exe
+G:\#导航设计\XXX3.27\XXX\bin\Debug\XXX.pdb
+G:\#导航设计\XXX3.27\XXX\bin\Debug\Interop.MapWinGIS.dll
+G:\#导航设计\XXX3.27\XXX\bin\Debug\AxInterop.MapWinGIS.xml
+G:\#导航设计\XXX3.27\XXX\bin\Debug\Interop.MapWinGIS.xml
+G:\#导航设计\XXX3.27\XXX\obj\x86\Debug\XXX.csprojResolveAssemblyReference.cache
+G:\#导航设计\XXX3.27\XXX\obj\x86\Debug\XXX.Form1.resources
+G:\#导航设计\XXX3.27\XXX\obj\x86\Debug\XXX.Properties.Resources.resources
+G:\#导航设计\XXX3.27\XXX\obj\x86\Debug\XXX.csproj.GenerateResource.Cache
+G:\#导航设计\XXX3.28\XXX\bin\Debug\XXX.exe.config
+G:\#导航设计\XXX3.28\XXX\obj\x86\Debug\Interop.MapWinGIS.dll
+G:\#导航设计\XXX3.28\XXX\obj\x86\Debug\XXX.csproj.ResolveComReference.cache
+G:\#导航设计\XXX3.28\XXX\obj\x86\Debug\XXX.exe
+G:\#导航设计\XXX3.28\XXX\obj\x86\Debug\XXX.pdb
+G:\#导航设计\XXX3.28\XXX\bin\Debug\XXX.exe
+G:\#导航设计\XXX3.28\XXX\bin\Debug\XXX.pdb
+G:\#导航设计\XXX3.28\XXX\bin\Debug\Interop.MapWinGIS.dll
+G:\#导航设计\XXX3.28\XXX\bin\Debug\AxInterop.MapWinGIS.xml
+G:\#导航设计\XXX3.28\XXX\bin\Debug\Interop.MapWinGIS.xml
+G:\#导航设计\XXX3.28\XXX\obj\x86\Debug\XXX.csprojResolveAssemblyReference.cache
+G:\#导航设计\XXX3.28\XXX\obj\x86\Debug\XXX.Form1.resources
+G:\#导航设计\XXX3.28\XXX\obj\x86\Debug\XXX.Properties.Resources.resources
+G:\#导航设计\XXX3.28\XXX\obj\x86\Debug\XXX.csproj.GenerateResource.Cache
+G:\#导航设计\XXX3.28 - 副本\XXX\bin\Debug\XXX.exe.config
+G:\#导航设计\XXX3.28 - 副本\XXX\obj\x86\Debug\Interop.MapWinGIS.dll
+G:\#导航设计\XXX3.28 - 副本\XXX\obj\x86\Debug\XXX.csproj.ResolveComReference.cache
+G:\#导航设计\XXX3.28 - 副本\XXX\obj\x86\Debug\XXX.exe
+G:\#导航设计\XXX3.28 - 副本\XXX\obj\x86\Debug\XXX.pdb
+G:\#导航设计\XXX3.28 - 副本\XXX\bin\Debug\XXX.exe
+G:\#导航设计\XXX3.28 - 副本\XXX\bin\Debug\XXX.pdb
+G:\#导航设计\XXX3.28 - 副本\XXX\bin\Debug\Interop.MapWinGIS.dll
+G:\#导航设计\XXX3.28 - 副本\XXX\bin\Debug\AxInterop.MapWinGIS.xml
+G:\#导航设计\XXX3.28 - 副本\XXX\bin\Debug\Interop.MapWinGIS.xml
+G:\#导航设计\XXX3.28 - 副本\XXX\obj\x86\Debug\XXX.csprojResolveAssemblyReference.cache
+G:\#导航设计\XXX3.28 - 副本\XXX\obj\x86\Debug\XXX.Form1.resources
+G:\#导航设计\XXX3.28 - 副本\XXX\obj\x86\Debug\XXX.Properties.Resources.resources
+G:\#导航设计\XXX3.28 - 副本\XXX\obj\x86\Debug\XXX.csproj.GenerateResource.Cache
+G:\#导航设计\XXX3.28 - 副本\XXX\obj\x86\Debug\XXX.tableshow.resources
+G:\#导航设计\修改ing\XXX\bin\Debug\XXX.exe.config
+G:\#导航设计\修改ing\XXX\obj\x86\Debug\Interop.MapWinGIS.dll
+G:\#导航设计\修改ing\XXX\obj\x86\Debug\XXX.csproj.ResolveComReference.cache
+G:\#导航设计\修改ing\XXX\obj\x86\Debug\XXX.exe
+G:\#导航设计\修改ing\XXX\obj\x86\Debug\XXX.pdb
+G:\#导航设计\修改ing\XXX\bin\Debug\XXX.exe
+G:\#导航设计\修改ing\XXX\bin\Debug\XXX.pdb
+G:\#导航设计\修改ing\XXX\bin\Debug\Interop.MapWinGIS.dll
+G:\#导航设计\修改ing\XXX\bin\Debug\AxInterop.MapWinGIS.xml
+G:\#导航设计\修改ing\XXX\bin\Debug\Interop.MapWinGIS.xml
+G:\#导航设计\修改ing\XXX\obj\x86\Debug\XXX.csprojResolveAssemblyReference.cache
+G:\#导航设计\修改ing\XXX\obj\x86\Debug\XXX.Form1.resources
+G:\#导航设计\修改ing\XXX\obj\x86\Debug\XXX.Properties.Resources.resources
+G:\#导航设计\修改ing\XXX\obj\x86\Debug\XXX.tableshow.resources
+G:\#导航设计\修改ing\XXX\obj\x86\Debug\XXX.csproj.GenerateResource.Cache
+G:\#导航设计\改1\XXX\bin\Debug\XXX.exe.config
+G:\#导航设计\改1\XXX\obj\x86\Debug\Interop.MapWinGIS.dll
+G:\#导航设计\改1\XXX\obj\x86\Debug\XXX.csproj.ResolveComReference.cache
+G:\#导航设计\改1\XXX\obj\x86\Debug\XXX.exe
+G:\#导航设计\改1\XXX\obj\x86\Debug\XXX.pdb
+G:\#导航设计\改1\XXX\bin\Debug\XXX.exe
+G:\#导航设计\改1\XXX\bin\Debug\XXX.pdb
+G:\#导航设计\改1\XXX\bin\Debug\Interop.MapWinGIS.dll
+G:\#导航设计\改1\XXX\bin\Debug\AxInterop.MapWinGIS.xml
+G:\#导航设计\改1\XXX\bin\Debug\Interop.MapWinGIS.xml
+G:\#导航设计\改1\XXX\obj\x86\Debug\XXX.csprojResolveAssemblyReference.cache
+G:\#导航设计\改1\XXX\obj\x86\Debug\XXX.Form1.resources
+G:\#导航设计\改1\XXX\obj\x86\Debug\XXX.Properties.Resources.resources
+G:\#导航设计\改1\XXX\obj\x86\Debug\XXX.tableshow.resources
+G:\#导航设计\改1\XXX\obj\x86\Debug\XXX.csproj.GenerateResource.Cache
+G:\#导航设计\大概是最终版了5.21\XXX\bin\Debug\XXX.exe.config
+G:\#导航设计\大概是最终版了5.21\XXX\obj\x86\Debug\Interop.MapWinGIS.dll
+G:\#导航设计\大概是最终版了5.21\XXX\obj\x86\Debug\XXX.csproj.ResolveComReference.cache
+G:\#导航设计\大概是最终版了5.21\XXX\obj\x86\Debug\XXX.exe
+G:\#导航设计\大概是最终版了5.21\XXX\obj\x86\Debug\XXX.pdb
+G:\#导航设计\大概是最终版了5.21\XXX\bin\Debug\XXX.exe
+G:\#导航设计\大概是最终版了5.21\XXX\bin\Debug\XXX.pdb
+G:\#导航设计\大概是最终版了5.21\XXX\bin\Debug\Interop.MapWinGIS.dll
+G:\#导航设计\大概是最终版了5.21\XXX\bin\Debug\AxInterop.MapWinGIS.xml
+G:\#导航设计\大概是最终版了5.21\XXX\bin\Debug\Interop.MapWinGIS.xml
+G:\#导航设计\大概是最终版了5.21\XXX\obj\x86\Debug\XXX.csprojResolveAssemblyReference.cache
+G:\#导航设计\大概是最终版了5.21\XXX\obj\x86\Debug\XXX.Form1.resources
+G:\#导航设计\大概是最终版了5.21\XXX\obj\x86\Debug\XXX.Properties.Resources.resources
+G:\#导航设计\大概是最终版了5.21\XXX\obj\x86\Debug\XXX.tableshow.resources
+G:\#导航设计\大概是最终版了5.21\XXX\obj\x86\Debug\XXX.csproj.GenerateResource.Cache
